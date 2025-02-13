@@ -26,6 +26,9 @@ This is a simple JavaScript Drum Kit project that allows users to play different
 - **CSS**: Styling and animations.
 - **JavaScript**: Event listeners and sound control.
 
+## Live Demo
+Check out the live version of this project:👉 [JS Drum Kit](https://serhiisoloviov7.github.io/JS-Drum-Kit/)
+
 ## How to Run
 1. Clone the repository:
    ```sh
